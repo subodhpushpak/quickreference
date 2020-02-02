@@ -1,0 +1,45 @@
+Online url,online upload
+Due Date
+:
+Feb 02, 11:59 PM
+Total Score
+:
+70
+Available from
+:
+Jan 17, 8:00 AM
+Description
+Dear participant,
+
+Apply the concepts and techniques you have learnt in the previous weeks and summarise your insights at the end.
+
+
+Scoring guide (Rubric) - Rubric Ensemble Techniques
+Criteria	Points
+Import the necessary libraries	2.5
+Read the data as a data frame using pandas	2.5
+Shape of the data	1
+Data type of each attribute	2
+Checking the presence of missing values	2
+5 point summary of numerical attributes	2
+checking for class imbalance	1
+Checking the presence of outliers	2
+Plots	3
+inferences from EDA and plots	2
+Check for appropriate data types and make changes if required	1
+Take appropriate actions for missing values	3
+Take appropriate actions for outliers	3
+Do data scaling/Normalization if required	3
+Reasons for above data changes	2
+Split data into train/test	3
+Apply multiple models by fitting train data	5
+Predictions on test data	2
+Print accuracy and confusion matrix for each model on test data	5
+Build the ensemble models and compare the results with the base models Note: Random forest can be used only with Decision trees.	5
+Build the GradientBoostingRegressor	2
+Build the RandomForestRegressor	2
+Build the BaggingRegressor	1
+Compare performances of all the models using multiple evaluation metrics for classification	10
+Observations and inferences on overall analysis, model and evaluation	3
+Points	70
+Submit Assignment
